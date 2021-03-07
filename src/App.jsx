@@ -4,7 +4,7 @@ import { Counter } from './features/counter/Counter';
 
 const App = () => {
   return (
-    <div className="text-center">
+    <div className="text-center container mx-auto">
       <header className="space-y-4 h-screen flex flex-col flex-col items-center justify-center text-white">
         <img src={logo} className="App-logo pointer-events-none h-2/5 motion-safe:animate-spin-slow" alt="logo" />
         <h1 className="text-4xl">Hello Vite, React, Redux Toolkit + Tailwind CSS!</h1>
