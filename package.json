@@ -1,6 +1,12 @@
 {
   "name": "vite-react-tailwind-rtk",
   "version": "0.0.0",
+  "author": {
+    "name": "James Wallen-Jones",
+    "email": "j.wallen.jones@googlemail.com"
+  },
+  "license": "MIT",
+  "description": "Vite, React, Tailwind, Redux Toolkit Template\n",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
