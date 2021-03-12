@@ -7,7 +7,7 @@
 ```shell
 npx degit jamosaur/vite-react-tailwind-rtk my-awesome-project
 cd my-awesome-project
-npm
+npm install
 ```
 
 ## Development
